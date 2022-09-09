@@ -14,4 +14,6 @@
 - ⚡ Fun fact: ...
 -->
 
-Web Designer, WordPress Enthusiast and CTF Player. You can find me writing about my Learnings on my Blog CodeWithFrida.com, chitchating on Twitter or as an author on Dev.to.
+Web Designer, WordPress Enthusiast and CTF Player. You can find me writing about my Learnings on my Blog CodeWithFrida.com or chitchating on Twitter. I 
+
+I would love to hear from you 😄
